@@ -1,0 +1,6 @@
+CREATE TABLE `students` (
+	`ID` INT(11) NOT NULL AUTO_INCREMENT,
+	`Name` VARCHAR(50) NOT NULL,
+	`Age` INT(11) NULL,
+	INDEX `ID` (`ID`)
+)

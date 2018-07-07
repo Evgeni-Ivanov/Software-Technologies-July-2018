@@ -1,0 +1,4 @@
+GET  HTTP/1.1
+Host: softuni.bg
+Cache-Control: no-cache
+Postman-Token: e4f93d73-1449-4c17-bbe3-8197af276fe0
